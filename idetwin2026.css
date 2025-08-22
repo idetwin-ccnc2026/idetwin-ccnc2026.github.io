@@ -32,6 +32,12 @@ header .subtitle {
   margin-top: 0.5rem;
 }
 
+.location h2, .location h3 {
+  color: #fff;
+  border-bottom: none;
+  margin: 0;
+}
+
 main section {
   margin-bottom: 3rem;
 }
@@ -77,7 +83,7 @@ footer {
 }
 
 .logo-img {
-  width: 120px;
+  width: 200px;
   height: auto;
   margin-bottom: 0.5rem;
 }
